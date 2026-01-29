@@ -38,7 +38,7 @@ public class Principal {
             } else {
                 bandera = true;
             }
-            escritura04.Procesos.agregarRegistros(cadenaFinal, placa);
+            escritura05.Procesos.agregarRegistros(cadenaFinal, placa);
         }
 
     }
